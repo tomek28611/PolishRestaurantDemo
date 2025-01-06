@@ -3,7 +3,7 @@ using PolishRestaurant.Data;
 using PolishRestaurant.Models;
 
 namespace PolishRestaurant.Controllers
- 
+{ 
     public class ProductController : Controller
     {
         private Repository<Product> products;
